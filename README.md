@@ -1,10 +1,11 @@
 ### Hi, I'm Cristiano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Software Engineer. Currently I'm improving as a Web and Mobile Developer at [**Rocketseat**](https://github.com/rocketseat-education). 🚀
+I’m a Software Engineer. Currently I'm improving as a Full Stack developer at [**Rocketseat**](https://github.com/rocketseat-education). 🚀
 
 #### My current tools 
 📲 Front-end Mobile with React Native  
 🌎 Front-end Web with Reactjs    
+:computer: Node Js
 🛠️ Typescript  
 🧰 And more...  
 
